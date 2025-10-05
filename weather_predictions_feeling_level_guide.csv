@@ -1,0 +1,6 @@
+probability_range,feeling_level,description
+60-100%,Very Likely,High certainty this will occur
+40-59%,Likely,Good chance this will happen
+20-39%,Possible,Moderate likelihood
+10-19%,Unlikely,Low probability
+0-9%,Very Unlikely,Very low chance
